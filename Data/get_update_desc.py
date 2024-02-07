@@ -6,7 +6,10 @@ RELEASE_FAMILIES_FILENAME = 'release_families.json'
 with open(RELEASE_FAMILIES_FILENAME) as f:
     release_family_data = json.load(f)
 
-update_name = sys.argv[1]
+if len(sys.argv) > 1:
+    update_name = sys.argv[1]
+else:
+    update_name = input("Please input update name: ")
 print('Getting all unique descriptions for: ', update_name)
 
 update_descriptions = ''
