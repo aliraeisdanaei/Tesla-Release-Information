@@ -34,6 +34,66 @@ Enhanced Summon,2,Self Driving
 Park Assist Upgrade,1,Self Driving
 Autosteer Stop Sign and Stop Light Warning,1,Self Driving
 Autosteer Stop Light Warning,1,Self Driving
+Full Self-Driving (Beta),12,Self Driving
+Full Self-Driving (Beta) Suspension,12,Self Driving
+FSD Beta v11.4.4,4,Self Driving
+FSD Beta v11.3.6,3,Self Driving
+Full Self Driving (Beta) Suspension,2,Self Driving
+FSD Beta v11.4.9,1,Self Driving
+FSD Beta v12.1,1,Self Driving
+FSD Beta v12.1.1,1,Self Driving
+FSD Beta v12.1.2,1,Self Driving
+FSD Beta v12,1,Self Driving
+FSD Beta v11.4.7.1,1,Self Driving
+FSD Beta v11.4.7.2,1,Self Driving
+FSD Beta v11.4.7.3,1,Self Driving
+FSD Beta v11.4.8,1,Self Driving
+FSD Beta v11.4.8.1,1,Self Driving
+FSD Beta v11.4.1,1,Self Driving
+FSD Beta v11.4.2,1,Self Driving
+FSD Beta v11.4.3,1,Self Driving
+FSD Beta v11.4.5,1,Self Driving
+FSD Beta v11.4.6,1,Self Driving
+FSD Beta v11.4.7,1,Self Driving
+FSD Beta v11.4,1,Self Driving
+FSD Beta 11.3 (2022.45.5),1,Self Driving
+FSD Beta v11.3.1,1,Self Driving
+FSD Beta v11.3.2,1,Self Driving
+FSD Beta v11.3.3,1,Self Driving
+FSD Beta v11.3.4,1,Self Driving
+FSD Beta v11.3.5,1,Self Driving
+FSD Beta 10.69.25.1 (2022.44.30.5),1,Self Driving
+FSD Beta 10.69.25.2 (2022.44.30.10),1,Self Driving
+FSD Beta v10.69.25 (2022.44.25.5),1,Self Driving
+FSD Beta v10.69.3.2,1,Self Driving
+FSD Beta v10.69.3.3,1,Self Driving
+FSD Beta v11,1,Self Driving
+FSD Beta v10.69.3,1,Self Driving
+FSD Beta v10.69.3.1,1,Self Driving
+FSD Beta v10.69.1 ,1,Self Driving
+FSD Beta v10.69.1.1,1,Self Driving
+FSD Beta v10.69.2,1,Self Driving
+FSD Beta v10.69.2.1,1,Self Driving
+FSD Beta v10.69.2.2,1,Self Driving
+FSD Beta v10.69.2.3,1,Self Driving
+FSD Beta v10.69.2.4,1,Self Driving
+FSD Beta v10.12.2,1,Self Driving
+FSD Beta New Markets,1,Self Driving
+FSD Beta v10.11,1,Self Driving
+Request Full Self-Driving Beta,1,Self Driving
+FSD Beta v10.10,1,Self Driving
+FSD Beta v10.10.2,1,Self Driving
+FSD Beta v10.7,1,Self Driving
+FSD Beta v10.8,1,Self Driving
+FSD Beta v10.8.1,1,Self Driving
+FSD Beta v10.9,1,Self Driving
+FSD Beta v10.3,1,Self Driving
+FSD Beta v10.3.1,1,Self Driving
+FSD Beta v10.4,1,Self Driving
+FSD Beta v10.5,1,Self Driving
+FSD Beta v10.6,1,Self Driving
+FSD Beta v10.6.1,1,Self Driving
+Full Self-Driving (Beta) Terms,1,Self Driving
 Emergency Lane Departure Avoidance,2,Safety Feature
 Lane Departure Avoidance,2,Safety Feature
 Blindspot Warning,2,Safety Feature
@@ -144,66 +204,6 @@ Voice Keyboard,1,Language Support
 Handwriting Keyboard,1,Language Support
 Keyboard,1,Language Support
 Bopomofo Keyboard,1,Language Support
-Full Self-Driving (Beta),12,Full Self Driving
-Full Self-Driving (Beta) Suspension,12,Full Self Driving
-FSD Beta v11.4.4,4,Full Self Driving
-FSD Beta v11.3.6,3,Full Self Driving
-Full Self Driving (Beta) Suspension,2,Full Self Driving
-FSD Beta v11.4.9,1,Full Self Driving
-FSD Beta v12.1,1,Full Self Driving
-FSD Beta v12.1.1,1,Full Self Driving
-FSD Beta v12.1.2,1,Full Self Driving
-FSD Beta v12,1,Full Self Driving
-FSD Beta v11.4.7.1,1,Full Self Driving
-FSD Beta v11.4.7.2,1,Full Self Driving
-FSD Beta v11.4.7.3,1,Full Self Driving
-FSD Beta v11.4.8,1,Full Self Driving
-FSD Beta v11.4.8.1,1,Full Self Driving
-FSD Beta v11.4.1,1,Full Self Driving
-FSD Beta v11.4.2,1,Full Self Driving
-FSD Beta v11.4.3,1,Full Self Driving
-FSD Beta v11.4.5,1,Full Self Driving
-FSD Beta v11.4.6,1,Full Self Driving
-FSD Beta v11.4.7,1,Full Self Driving
-FSD Beta v11.4,1,Full Self Driving
-FSD Beta 11.3 (2022.45.5),1,Full Self Driving
-FSD Beta v11.3.1,1,Full Self Driving
-FSD Beta v11.3.2,1,Full Self Driving
-FSD Beta v11.3.3,1,Full Self Driving
-FSD Beta v11.3.4,1,Full Self Driving
-FSD Beta v11.3.5,1,Full Self Driving
-FSD Beta 10.69.25.1 (2022.44.30.5),1,Full Self Driving
-FSD Beta 10.69.25.2 (2022.44.30.10),1,Full Self Driving
-FSD Beta v10.69.25 (2022.44.25.5),1,Full Self Driving
-FSD Beta v10.69.3.2,1,Full Self Driving
-FSD Beta v10.69.3.3,1,Full Self Driving
-FSD Beta v11,1,Full Self Driving
-FSD Beta v10.69.3,1,Full Self Driving
-FSD Beta v10.69.3.1,1,Full Self Driving
-FSD Beta v10.69.1 ,1,Full Self Driving
-FSD Beta v10.69.1.1,1,Full Self Driving
-FSD Beta v10.69.2,1,Full Self Driving
-FSD Beta v10.69.2.1,1,Full Self Driving
-FSD Beta v10.69.2.2,1,Full Self Driving
-FSD Beta v10.69.2.3,1,Full Self Driving
-FSD Beta v10.69.2.4,1,Full Self Driving
-FSD Beta v10.12.2,1,Full Self Driving
-FSD Beta New Markets,1,Full Self Driving
-FSD Beta v10.11,1,Full Self Driving
-Request Full Self-Driving Beta,1,Full Self Driving
-FSD Beta v10.10,1,Full Self Driving
-FSD Beta v10.10.2,1,Full Self Driving
-FSD Beta v10.7,1,Full Self Driving
-FSD Beta v10.8,1,Full Self Driving
-FSD Beta v10.8.1,1,Full Self Driving
-FSD Beta v10.9,1,Full Self Driving
-FSD Beta v10.3,1,Full Self Driving
-FSD Beta v10.3.1,1,Full Self Driving
-FSD Beta v10.4,1,Full Self Driving
-FSD Beta v10.5,1,Full Self Driving
-FSD Beta v10.6,1,Full Self Driving
-FSD Beta v10.6.1,1,Full Self Driving
-Full Self-Driving (Beta) Terms,1,Full Self Driving
 Supercharging,6,Fuel and Battery
 Range Display,5,Fuel and Battery
 Charge on Solar,2,Fuel and Battery
