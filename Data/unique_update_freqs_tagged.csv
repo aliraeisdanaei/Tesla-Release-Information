@@ -1,463 +1,463 @@
-Update Names,Occurrence,Type
-User guides,6,User Information
-Get to Know Your Tesla,2,User Information
-New Legal Notice,1,User Information
-In App Release notes,1,User Information
-Release Notes,1,User Information
-Additional Vehicle Information,1,User Information
-QR Code for Tesla Service,1,User Information
-Release,2,Unknown Safety
-New Release,2,Unknown
-Autopilot,3,Self Driving
-Autosteer (Beta),3,Self Driving
-Automatic Headlights,2,Self Driving
-Autopilot Maximum Speed,2,Self Driving
-Autopark,2,Self Driving
-Automatic Lane Change,2,Self Driving
-Automatic Blind Spot Camera,1,Self Driving
-Autopilot Suspension,1,Self Driving
-Autopilot Speed Indicator,1,Self Driving
-Auto Turn Signal,1,Self Driving
-Auto Turn Signals,1,Self Driving
-Auto-Present Door Handles,1,Self Driving
-Autopilot Disengagement at Motorway Merges,1,Self Driving
-Autosteer Stop Sign Warning,1,Self Driving
-Automatic Navigation,1,Self Driving
-Park Assist,5,Self Driving
-Park Assist Issues,2,Self Driving
-Summon,4,Self Driving
-Tesla Vision Update,3,Self Driving
-Summon with Key Fob,3,Self Driving
-Smart Summon,2,Self Driving
-Smart Summon (Beta),2,Self Driving
-Enhanced Summon,2,Self Driving
-Park Assist Upgrade,1,Self Driving
-Autosteer Stop Sign and Stop Light Warning,1,Self Driving
-Autosteer Stop Light Warning,1,Self Driving
-Full Self-Driving (Beta),12,Self Driving
-Full Self-Driving (Beta) Suspension,12,Self Driving
-FSD Beta v11.4.4,4,Self Driving
-FSD Beta v11.3.6,3,Self Driving
-Full Self Driving (Beta) Suspension,2,Self Driving
-FSD Beta v11.4.9,1,Self Driving
-FSD Beta v12.1,1,Self Driving
-FSD Beta v12.1.1,1,Self Driving
-FSD Beta v12.1.2,1,Self Driving
-FSD Beta v12,1,Self Driving
-FSD Beta v11.4.7.1,1,Self Driving
-FSD Beta v11.4.7.2,1,Self Driving
-FSD Beta v11.4.7.3,1,Self Driving
-FSD Beta v11.4.8,1,Self Driving
-FSD Beta v11.4.8.1,1,Self Driving
-FSD Beta v11.4.1,1,Self Driving
-FSD Beta v11.4.2,1,Self Driving
-FSD Beta v11.4.3,1,Self Driving
-FSD Beta v11.4.5,1,Self Driving
-FSD Beta v11.4.6,1,Self Driving
-FSD Beta v11.4.7,1,Self Driving
-FSD Beta v11.4,1,Self Driving
-FSD Beta 11.3 (2022.45.5),1,Self Driving
-FSD Beta v11.3.1,1,Self Driving
-FSD Beta v11.3.2,1,Self Driving
-FSD Beta v11.3.3,1,Self Driving
-FSD Beta v11.3.4,1,Self Driving
-FSD Beta v11.3.5,1,Self Driving
-FSD Beta 10.69.25.1 (2022.44.30.5),1,Self Driving
-FSD Beta 10.69.25.2 (2022.44.30.10),1,Self Driving
-FSD Beta v10.69.25 (2022.44.25.5),1,Self Driving
-FSD Beta v10.69.3.2,1,Self Driving
-FSD Beta v10.69.3.3,1,Self Driving
-FSD Beta v11,1,Self Driving
-FSD Beta v10.69.3,1,Self Driving
-FSD Beta v10.69.3.1,1,Self Driving
-FSD Beta v10.69.1 ,1,Self Driving
-FSD Beta v10.69.1.1,1,Self Driving
-FSD Beta v10.69.2,1,Self Driving
-FSD Beta v10.69.2.1,1,Self Driving
-FSD Beta v10.69.2.2,1,Self Driving
-FSD Beta v10.69.2.3,1,Self Driving
-FSD Beta v10.69.2.4,1,Self Driving
-FSD Beta v10.12.2,1,Self Driving
-FSD Beta New Markets,1,Self Driving
-FSD Beta v10.11,1,Self Driving
-Request Full Self-Driving Beta,1,Self Driving
-FSD Beta v10.10,1,Self Driving
-FSD Beta v10.10.2,1,Self Driving
-FSD Beta v10.7,1,Self Driving
-FSD Beta v10.8,1,Self Driving
-FSD Beta v10.8.1,1,Self Driving
-FSD Beta v10.9,1,Self Driving
-FSD Beta v10.3,1,Self Driving
-FSD Beta v10.3.1,1,Self Driving
-FSD Beta v10.4,1,Self Driving
-FSD Beta v10.5,1,Self Driving
-FSD Beta v10.6,1,Self Driving
-FSD Beta v10.6.1,1,Self Driving
-Full Self-Driving (Beta) Terms,1,Self Driving
-Emergency Lane Departure Avoidance,2,Safety Feature
-Lane Departure Avoidance,2,Safety Feature
-Blindspot Warning,2,Safety Feature
-Automatic 911 Calls,1,Safety Feature
-Airbag System,1,Safety Feature
-Pedestrian Warning,1,Safety Feature
-BlindSpot Warning,1,Safety Feature
-Navigate on Autopilot (Beta),7,Safety Feature
-Faster Hazard Lights After a Crash,1,Safety Feature
-Detect Emergency Vehicles,1,Safety Feature
-Rear Seatbelt Reminder,1,Safety Alerts
-Over-the-Air (OTA) Recall,2,Recall – Safety
-Over-the-Air (OTA) recall,2,Recall – Safety
-Over-the-Air Recall: Telltale Text Size,1,Recall – Safety
-Speed Cameras on Your Route,1,Other
-Sentry Mode,7,Non-Driving Feature
-Sentry Mode Live Camera Access,4,Non-Driving Feature
-Dog Mode,5,Non-Driving Feature
-Camera View on Tesla App,2,Non-Driving Feature
-Car Left Open Notifications,2,Non-Driving Feature
-Car Wash Mode,2,Non-Driving Feature
-Sentry Mode Lighting,1,Non-Driving Feature
-Sentry Mode and Dog Mode,1,Non-Driving Feature
-Tesla App,1,Non-Driving Feature
-Disable Sentry Sounds,1,Non-Driving Feature
-Additional Mobile App Controls,1,Non-Driving Feature
-Service Mode,1,Non-Driving Feature
-Camp Mode,1,Non-Driving Feature
-Minor Fixes,31,Minor Fix
-Bugfix,11,Minor Fix
-Bugs Introduced in release,5,Minor Fix
-Minor Updates,1,Minor Fix
-Bug Fix,1,Minor Fix
-Bugfix (2022.44.30),1,Minor Fix
-Bugfix (2022.44.30.1),1,Minor Fix
-Bugfix x00,1,Minor Fix
-Bugfix and tweaks,1,Minor Fix
-Version Improvements,7,Minor Fix
-Text Size,3,Minor Fix
-Seat and Steering Column Calibration,1,Minor Fix
-Always Rainbows,1,Minor Effects to Safety
-Dark Mode,1,Minor Effects to Safety
-Active Road Noise Reduction,1,Minor Effects to Safety
-Animal Visualizations,1,Minor Effects to Safety
-Joe Mode,1,Minor Effects to Safety
-Auto High Beam,1,Minor Effects to Safety
-Extras,14,Minor Effects to Safety
-Driving Visualization,11,Minor Effects to Safety
-Driving Visualization Improvements,8,Minor Effects to Safety
-Dashcam,8,Minor Effects to Safety
-Dashcam Viewer,4,Minor Effects to Safety
-Regenerative Braking,4,Minor Effects to Safety
-Save Dashcam Clips,2,Minor Effects to Safety
-On-Route Battery Warmup,2,Minor Effects to Safety
-Adaptive Suspension Damping,3,Minor Effects to Safety
-Version 9.0,3,Minor Effects to Safety
-Green Traffic Light Chime,2,Minor Effects to Safety
-Visualizations,2,Minor Effects to Safety
-Regenerative Braking in Autopilot,1,Minor Effects to Safety
-Regenerative Braking on Autopilot,1,Minor Effects to Safety
-Manage Dashcam Clips,1,Minor Effects to Safety
-Speed Bump Visualization,1,Minor Effects to Safety
-Increased Regenerative Braking in Cold Weather,1,Minor Effects to Safety
-Navigation,6,Map Software
-Maps,3,Map Software
-Points of Interest,2,Map Software
-Traffic Along Route,2,Map Software
-Alternative Routes While Driving,1,Map Software
-Trip Planner on Mobile App,1,Map Software
-Trip Planner,1,Map Software
-Alternate Routes,1,Map Software
-Nearby Superchargers,1,Map Software
-Hide Map Details,1,Map Software
-Alternative Navigation Routes,1,Map Software
-Feeling Lucky or Hungry?,1,Map Software
-Routing and Maps,1,Map Software
-Superchargings List,1,Map Software
-Navigation Voice Guidance,3,Map Software
-Trip Planner (Beta),1,Map Software
-EU Map Update EU-2022.40-14215 ,1,Map Data
-Third-Party Charging Stations,2,Map Data
-Cabin Camera,14,Major Effects to Safety
-Blind Spot Camera,4,Major Effects to Safety
-Combining Autosteer and Auto Lane Change,2,Major Effects to Safety
-Speed Assist,7,Major Effects to Safety
-Traffic Light and Stop Sign Control (Beta),6,Major Effects to Safety
-Track Mode,5,Major Effects to Safety
-Dynamic Brake Lights,4,Major Effects to Safety
-Single Pull to Start Autopilot,3,Major Effects to Safety
-Steering Improvements,1,Major Effects to Safety
-Adaptive High Beams,1,Major Effects to Safety
-Detailed Intersection View,1,Major Effects to Safety
-Speed Limit Mode,1,Major Effects to Safety
-Launch Mode,1,Major Effects to Safety
-Performance and Launch Mode,1,Major Effects to Safety
-Ludicrous Mode Acceleration,1,Major Effects to Safety
-Language Support,19,Language Support
-Voice Recognition Language,3,Language Support
-Language,3,Language Support
-New Language Support,2,Language Support
-Hebrew Language Added,1,Language Support
-Thai Voice Navigation,1,Language Support
-Hebrew Voice Navigation,1,Language Support
-Voice Recognition,1,Language Support
-Voice Command,1,Language Support
-Voice Commands,1,Language Support
-Voice Keyboard,1,Language Support
-Handwriting Keyboard,1,Language Support
-Keyboard,1,Language Support
-Bopomofo Keyboard,1,Language Support
-Supercharging,6,Fuel and Battery
-Range Display,5,Fuel and Battery
-Charge on Solar,2,Fuel and Battery
-Supercharger Additional Details,2,Fuel and Battery
-Destination Charging Availability,1,Fuel and Battery
-Detailed Energy Usage,1,Fuel and Battery
-More Efficient Charging,1,Fuel and Battery
-Reminder to Plug In at Home,1,Fuel and Battery
-Predictive Charger Availability,1,Fuel and Battery
-Charging Time Estimation,1,Fuel and Battery
-Improved Charging Efficiency,1,Fuel and Battery
-Charging Options,1,Fuel and Battery
-Supercharging Display,1,Fuel and Battery
-Unlatching Charge Cable,1,Fuel and Battery
-Charge Port Inlet Heater,1,Fuel and Battery
-Pay Per Use Supercharging,1,Fuel and Battery
-Nearby Charging Sites,1,Fuel and Battery
-Charging Locations,1,Fuel and Battery
-CCS Charging,1,Fuel and Battery
-Energy App,3,Fuel and Battery
-Emissions Testing Mode,2,Fuel and Battery
-Emissions Testing Mode via Mobile App,1,Fuel and Battery
-Battery Health,1,Fuel and Battery
-Battery Heating Performance,1,Fuel and Battery
-Energy Line,1,Fuel and Battery
-Heat Pump & Low Voltage Battery,1,Fuel and Battery
-Apple Music,4,Entertainment
-Tesla Theater,4,Entertainment
-Vampire Survivors Game,3,Entertainment
-Zoom Meetings,3,Entertainment
-Boombox,3,Entertainment
-Sirius XM,3,Entertainment
-Web Browser,3,Entertainment
-Light Show,2,Entertainment
-Bluetooth Game Controllers,2,Entertainment
-Spotify Refresh,2,Entertainment
-Mango TV,2,Entertainment
-Steam (Beta),2,Entertainment
-Caraoke,2,Entertainment
-Cat Quest,2,Entertainment
-Theater Mode,2,Entertainment
-TeslaMic,2,Entertainment
-Disney+,2,Entertainment
-Sonic the Hedgehog,2,Entertainment
-Tesla Powerwall Coordination,2,Entertainment
-Tesla Toybox,2,Entertainment
-QQ Music,2,Entertainment
-Spotify,2,Entertainment
-Backgammon,2,Entertainment
-Bluetooth,2,Entertainment
-Apple Podcasts,1,Entertainment
-Castle Doombad Game,1,Entertainment
-Play Games on Rear Screen,1,Entertainment
-Tesla Arcade Updates,1,Entertainment
-Zoom Video Meetings,1,Entertainment
-Multiplayer Vampire Survivors,1,Entertainment
-WeChat Mini Programs,1,Entertainment
-Bluetooth Games Controllers,1,Entertainment
-Bluetooth Gaming Controllers,1,Entertainment
-Radio Station Logos,1,Entertainment
-In App Mail,1,Entertainment
-Cuphead,1,Entertainment
-Sonic,1,Entertainment
-Bilibili,1,Entertainment
-NetEase Cloud Music,1,Entertainment
-Sudoku,1,Entertainment
-TikTok,1,Entertainment
-Music Time Remaining over Bluetooth,1,Entertainment
-QQ Lyrics,1,Entertainment
-Solitaire,1,Entertainment
-The Battle of Polytopia,1,Entertainment
-TRAX v0.2,1,Entertainment
-Media Search,1,Entertainment
-Media Sources,1,Entertainment
-Voice Command Language,1,Entertainment
-Tesla Arcade,1,Entertainment
-TuneIn,1,Entertainment
-Fallout Shelter,1,Entertainment
-TRAX,1,Entertainment
-Dou DiZhu,1,Entertainment
-Happy Mahjong,1,Entertainment
-Shengji,1,Entertainment
-TRAX v0.1,1,Entertainment
-Browser and Streaming Media,1,Entertainment
-Cuphead - Tesla Edition,1,Entertainment
-Ximalaya,1,Entertainment
-Chess,1,Entertainment
-Media Volume,1,Entertainment
-Beach Buggy Racing 2,1,Entertainment
-Sketchpad,1,Entertainment
-TeslAtari ,1,Entertainment
-TeslAtari Game Controller Support,1,Entertainment
-Calendar,1,Entertainment
-Media,1,Entertainment
-Status Bar,3,Entertainment
-Application Launcher,3,Entertainment
-Rear Passenger Headphones,2,Entertainment
-Mahjong,2,Entertainment
-Media Controls,1,Entertainment
-Media Controls (and information cards),1,Entertainment
-Customizable App Launcher,1,Entertainment
-TIDAL,1,Entertainment
-Text Messaging,1,Entertainment
-Phone,1,Entertainment
-Stardew Valley,1,Entertainment
-Viewing Applications with Media Player Open,1,Entertainment
-Tire Service,2,Diagnostics
-Tire Service Mileage,2,Diagnostics
-Tire Configuration,2,Diagnostics
-Tire Pressure API,1,Diagnostics
-Climate Control,4,Comfort
-Passenger Seat Controls,2,Comfort
-Warmer Display Colors,2,Comfort
-Auto Rear Climate Controls,1,Comfort
-Car Colorizer,1,Comfort
-Automated Seat Heaters,1,Comfort
-Heating,1,Comfort
-Bioweapon Defense Mode,1,Comfort
-Glovebox PIN,1,Comfort
-Romance Mode,1,Comfort
-Cold Weather,9,Comfort
-Driver Profiles,5,Comfort
-Mobile App,5,Comfort
-Cabin Overheat Protection,2,Comfort
-Steering Wheel Heat,1,Comfort
-Steering Yoke Heat,1,Comfort
-Active Phone Calls,1,Comfort
-Climate Control Fan Speed,1,Comfort
-Rear Cabin Climate,1,Comfort
-Subwoofer,1,Comfort
-Keep Climate On,1,Comfort
-Controls Search,2,
-Customize the Scroll Wheel,2,
-Destination Closing Soon,2,
-Gear Chimes,2,
-Other Updates,2,
-Phone Call Controls,2,
-Scroll Wheel Customization,2,
-Auto Steering Wheel Heat,2,
-Driver Door Unlock Mode,2,
-Rear Display,2,
-Scheduled Departure,2,
-Vehicle Information,2,
-Suspension,2,
-Owner's Manual,2,
-Conditional Speed Limits,2,
-Lock Confirmation Sound,2,
-Software  Preference,2,
-Custom Lock Sounds,1,
-Fold Mirrors at a Location,1,
-Live Camera Access,1,
-More Cameras in Live Camera View,1,
-Security Improvements,1,
-Location Sharing,1,
-Windows During an Update,1,
-Refresh Your Data Sharing Settings,1,
-Video Highlights,1,
-Highlights of 2023.02,1,
-HW4 Fixes,1,
-Cloud Profiles,1,
-Vehicle Preconditioning,1,
-Camera-Based Detection,1,
-China specific release,1,
-Confirm Phone Call Transfer,1,
-Contact Lookup,1,
-Contact Lookup/Search,1,
-Exclude Automatic Door Opening at Home,1,
-Highlights of 2022.44.25.1/2,1,
-myQ Connected Garage,1,
-Rear Screen Control,1,
-Route Guidance,1,
-Scheduled Light Show,1,
-Seat Belt System Enhancement,1,
-Xref Release numbering,1,
-Daytime Running Lights,1,
-Car Visuals,1,
-Remote Drivers Door Unlock,1,
-Seat Belt Enhancement,1,
-Tesla Adaptive Suspension,1,
-Tesla Profiles,1,
-Detected.....,1,
-Speed Assist #2,1,
-Navigate On Autopilot Fork Initiation,1,
-Navigation Energy Prediction,1,
-Additional Bottom Bar Customization,1,
-Child Lock,1,
-Compass / Always North,1,
-Display,1,
-Navigation Routes,1,
-Tesla Tutorials,1,
-Audio Sources,1,
-Icons in Status Bar,1,
-Range Display Calibration,1,
-Windshield Wiper Defrost,1,
-Detect Uneven Tire Wear,1,
-Edit Waypoints,1,
-New V11 UI,1,
-Simplified Controls,1,
-Use Comfort Damping Suspension in Autopilot,1,
-Vehicle Sync (Beta),1,
-Add Stop,1,
-Additional Information,1,
-Side Repeater Cameras,1,
-Traffic Aware Cruise Control Chime,1,
-Additional Features in App,1,
-Car Visualization,1,
-Yoke Behavior Changes,1,
-Accessibility,1,
-Immersive Sound,1,
-Redesigned Controls Panel,1,
-Refreshed QQ,1,
-Mirror Auto Dim,1,
-Navigation Lane Guidance,1,
-Navigation Route,1,
-Remain Connected to Wi-Fi in Drive,1,
-Bluetooth Audio Progress Bar,1,
-Sky Force Reloaded,1,
-Efficiency,1,
-Mobile App - Vent Windows,1,
-Priority Bluetooth Device,1,
-Cruise Set Speed,1,
-Suspension Instrument Panel Display,1,
-Close Windows on Lock,1,
-Notifications History,1,
-Passenger Face Vent,1,
-Backup Camera,1,
-Walk-Away Door Lock,1,
-GPS,1,
-Out of Order Supercharger Stalls,1,
-Adjacent Lane Speeds,1,
-Air Quality Index and Weather,1,
-License Plate Routing,1,
-Navigation Guidance View,1,
-Wiper,1,
-Power Increase,1,
-Stopping Mode,1,
-Driving Dynamics,1,
-Key Fob Security,1,
-Software,1,
-Wheel Configuration,1,
-Linking a Key to a Driver Profile,1,
-CHAdeMO Adapter Support,1,
-Top Speed Performance,1,
-Display Brightness,1,
-HomeLink,1,
-High Speed Performance,1,
-Tire Pressure Monitoring System (TPMS),1,
-New Acceleration Mode,1,
-Peak Power Increase,1,
-Auto-Folding Mirrors Based on Location,1,
-Pole Position,1,
-Introducing new Navigation (Beta),1,
-PIN to Drive,1,
-Mobile Access,1,
-Keys,1,
-Traffic View,1,
-Use HOV Lanes,1,
+Update Names,Occurrence,Type,Further Tags
+Accessibility,1,Comfort,
+Active Phone Calls,1,Comfort,
+Active Road Noise Reduction,1,Minor Effects to Safety,
+Adaptive High Beams,1,Major Effects to Safety,
+Adaptive Suspension Damping,3,Minor Effects to Safety,
+Add Stop,1,Map Software,
+Additional Bottom Bar Customization,1,Comfort,
+Additional Features in App,1,Fuel and Battery,
+Additional Information,1,User Information,
+Additional Mobile App Controls,1,Non-Driving Feature,
+Additional Vehicle Information,1,User Information,
+Adjacent Lane Speeds,1,Safety ,
+Air Quality Index and Weather,1,Comfort,
+Airbag System,1,Safety Feature,
+Alternate Routes,1,Map Software,
+Alternative Navigation Routes,1,Map Software,
+Alternative Routes While Driving,1,Map Software,
+Always Rainbows,1,Minor Effects to Safety,
+Animal Visualizations,1,Minor Effects to Safety,
+Apple Music,4,Entertainment,
+Apple Podcasts,1,Entertainment,
+Application Launcher,3,Entertainment,
+Audio Sources,1,Entertainment,
+Auto High Beam,1,Minor Effects to Safety,
+Auto Rear Climate Controls,1,Comfort,
+Auto Steering Wheel Heat,2,Comfort,
+Auto Turn Signal,1,Self Driving,
+Auto Turn Signals,1,Self Driving,
+Auto-Folding Mirrors Based on Location,1,Minor Effects to Safety,
+Auto-Present Door Handles,1,Self Driving,
+Automated Seat Heaters,1,Comfort,
+Automatic 911 Calls,1,Safety Feature,
+Automatic Blind Spot Camera,1,Self Driving,
+Automatic Headlights,2,Self Driving,
+Automatic Lane Change,2,Self Driving,
+Automatic Navigation,1,Self Driving,
+Autopark,2,Self Driving,
+Autopilot,3,Self Driving,
+Autopilot Disengagement at Motorway Merges,1,Self Driving,
+Autopilot Maximum Speed,2,Self Driving,
+Autopilot Speed Indicator,1,Self Driving,
+Autopilot Suspension,1,Self Driving,
+Autosteer (Beta),3,Self Driving,
+Autosteer Stop Light Warning,1,Self Driving,
+Autosteer Stop Sign and Stop Light Warning,1,Self Driving,
+Autosteer Stop Sign Warning,1,Self Driving,
+Backgammon,2,Entertainment,
+Backup Camera,1,Minor Effects to Safety,Mitigating Hazard
+Battery Health,1,Fuel and Battery,
+Battery Heating Performance,1,Fuel and Battery,
+Beach Buggy Racing 2,1,Entertainment,
+Bilibili,1,Entertainment,
+Bioweapon Defense Mode,1,Comfort,
+Blind Spot Camera,4,Major Effects to Safety,
+Blindspot Warning,2,Safety Feature,
+BlindSpot Warning,1,Safety Feature,
+Bluetooth,2,Entertainment,
+Bluetooth Audio Progress Bar,1,Entertainment,
+Bluetooth Game Controllers,2,Entertainment,
+Bluetooth Games Controllers,1,Entertainment,
+Bluetooth Gaming Controllers,1,Entertainment,
+Boombox,3,Entertainment,
+Bopomofo Keyboard,1,Language Support,
+Browser and Streaming Media,1,Entertainment,
+Bug Fix,1,Minor Fix,
+Bugfix,11,Minor Fix,
+Bugfix (2022.44.30.1),1,Minor Fix,
+Bugfix (2022.44.30),1,Minor Fix,
+Bugfix and tweaks,1,Minor Fix,
+Bugfix x00,1,Minor Fix,
+Bugs Introduced in release,5,Minor Fix,
+Cabin Camera,14,Major Effects to Safety,
+Cabin Overheat Protection,2,Comfort,
+Calendar,1,Entertainment,
+Camera View on Tesla App,2,Non-Driving Feature,
+Camera-Based Detection,1,Non-Driving Feature,
+Camp Mode,1,Non-Driving Feature,
+Car Colorizer,1,Comfort,
+Car Left Open Notifications,2,Non-Driving Feature,
+Car Visualization,1,Minor Effects to Safety,
+Car Visuals,1,Minor Effects to Safety,
+Car Wash Mode,2,Non-Driving Feature,
+Caraoke,2,Entertainment,
+Castle Doombad Game,1,Entertainment,
+Cat Quest,2,Entertainment,
+CCS Charging,1,Fuel and Battery,
+CHAdeMO Adapter Support,1,Fuel and Battery,
+Charge on Solar,2,Fuel and Battery,
+Charge Port Inlet Heater,1,Fuel and Battery,
+Charging Locations,1,Fuel and Battery,
+Charging Options,1,Fuel and Battery,
+Charging Time Estimation,1,Fuel and Battery,
+Chess,1,Entertainment,
+Child Lock,1,Major Effects to Safety,
+China specific release,1,Unknown,
+Climate Control,4,Comfort,
+Climate Control Fan Speed,1,Comfort,
+Close Windows on Lock,1,Comfort,
+Cloud Profiles,1,Comfort,
+Cold Weather,9,Comfort,
+Combining Autosteer and Auto Lane Change,2,Major Effects to Safety,
+Compass / Always North,1,Map Software,
+Conditional Speed Limits,2,Major Effects to Safety,
+Confirm Phone Call Transfer,1,Comfort,
+Contact Lookup,1,Comfort,
+Contact Lookup/Search,1,Comfort,
+Controls Search,2,Comfort,
+Cruise Set Speed,1,Major Effects to Safety,
+Cuphead,1,Entertainment,
+Cuphead - Tesla Edition,1,Entertainment,
+Custom Lock Sounds,1,Comfort,
+Customizable App Launcher,1,Entertainment,
+Customize the Scroll Wheel,2,Minor Effects to Safety,
+Dark Mode,1,Comfort,
+Dashcam,8,Minor Effects to Safety,
+Dashcam Viewer,4,Minor Effects to Safety,
+Daytime Running Lights,1,Major Effects to Safety,
+Destination Charging Availability,1,Fuel and Battery,
+Destination Closing Soon,2,Map Software,
+Detailed Energy Usage,1,Fuel and Battery,
+Detailed Intersection View,1,Major Effects to Safety,
+Detect Emergency Vehicles,1,Safety Feature,
+Detect Uneven Tire Wear,1,Minor Effects to Safety,
+Detected.....,1,Unknown,
+Disable Sentry Sounds,1,Non-Driving Feature,
+Disney+,2,Entertainment,
+Display,1,Minor Effects to Safety,
+Display Brightness,1,Comfort,
+Dog Mode,5,Non-Driving Feature,
+Dou DiZhu,1,Entertainment,
+Driver Door Unlock Mode,2,Comfort,
+Driver Profiles,5,Comfort,
+Driving Dynamics,1,Major Effects to Safety,
+Driving Visualization,11,Minor Effects to Safety,
+Driving Visualization Improvements,8,Minor Effects to Safety,
+Dynamic Brake Lights,4,Major Effects to Safety,
+Edit Waypoints,1,Map Software,
+Efficiency,1,Minor Fix,Improvements
+Emergency Lane Departure Avoidance,2,Safety Feature,
+Emissions Testing Mode,2,Fuel and Battery,
+Emissions Testing Mode via Mobile App,1,Fuel and Battery,
+Energy App,3,Fuel and Battery,
+Energy Line,1,Fuel and Battery,
+Enhanced Summon,2,Self Driving,
+EU Map Update EU-2022.40-14215 ,1,Map Data,
+Exclude Automatic Door Opening at Home,1,Non-Driving Feature,
+Extras,14,Minor Effects to Safety,
+Fallout Shelter,1,Entertainment,
+Faster Hazard Lights After a Crash,1,Safety Feature,
+Feeling Lucky or Hungry?,1,Map Software,
+Fold Mirrors at a Location,1,Minor Effects to Safety,
+FSD Beta 10.69.25.1 (2022.44.30.5),1,Self Driving,
+FSD Beta 10.69.25.2 (2022.44.30.10),1,Self Driving,
+FSD Beta 11.3 (2022.45.5),1,Self Driving,
+FSD Beta New Markets,1,Self Driving,
+FSD Beta v10.10,1,Self Driving,
+FSD Beta v10.10.2,1,Self Driving,
+FSD Beta v10.11,1,Self Driving,
+FSD Beta v10.12.2,1,Self Driving,
+FSD Beta v10.3,1,Self Driving,
+FSD Beta v10.3.1,1,Self Driving,
+FSD Beta v10.4,1,Self Driving,
+FSD Beta v10.5,1,Self Driving,
+FSD Beta v10.6,1,Self Driving,
+FSD Beta v10.6.1,1,Self Driving,
+FSD Beta v10.69.1 ,1,Self Driving,
+FSD Beta v10.69.1.1,1,Self Driving,
+FSD Beta v10.69.2,1,Self Driving,
+FSD Beta v10.69.2.1,1,Self Driving,
+FSD Beta v10.69.2.2,1,Self Driving,
+FSD Beta v10.69.2.3,1,Self Driving,
+FSD Beta v10.69.2.4,1,Self Driving,
+FSD Beta v10.69.25 (2022.44.25.5),1,Self Driving,
+FSD Beta v10.69.3,1,Self Driving,
+FSD Beta v10.69.3.1,1,Self Driving,
+FSD Beta v10.69.3.2,1,Self Driving,
+FSD Beta v10.69.3.3,1,Self Driving,
+FSD Beta v10.7,1,Self Driving,
+FSD Beta v10.8,1,Self Driving,
+FSD Beta v10.8.1,1,Self Driving,
+FSD Beta v10.9,1,Self Driving,
+FSD Beta v11,1,Self Driving,
+FSD Beta v11.3.1,1,Self Driving,
+FSD Beta v11.3.2,1,Self Driving,
+FSD Beta v11.3.3,1,Self Driving,
+FSD Beta v11.3.4,1,Self Driving,
+FSD Beta v11.3.5,1,Self Driving,
+FSD Beta v11.3.6,3,Self Driving,
+FSD Beta v11.4,1,Self Driving,
+FSD Beta v11.4.1,1,Self Driving,
+FSD Beta v11.4.2,1,Self Driving,
+FSD Beta v11.4.3,1,Self Driving,
+FSD Beta v11.4.4,4,Self Driving,
+FSD Beta v11.4.5,1,Self Driving,
+FSD Beta v11.4.6,1,Self Driving,
+FSD Beta v11.4.7,1,Self Driving,
+FSD Beta v11.4.7.1,1,Self Driving,
+FSD Beta v11.4.7.2,1,Self Driving,
+FSD Beta v11.4.7.3,1,Self Driving,
+FSD Beta v11.4.8,1,Self Driving,
+FSD Beta v11.4.8.1,1,Self Driving,
+FSD Beta v11.4.9,1,Self Driving,
+FSD Beta v12,1,Self Driving,
+FSD Beta v12.1,1,Self Driving,
+FSD Beta v12.1.1,1,Self Driving,
+FSD Beta v12.1.2,1,Self Driving,
+Full Self Driving (Beta) Suspension,2,Self Driving,
+Full Self-Driving (Beta),12,Self Driving,
+Full Self-Driving (Beta) Suspension,12,Self Driving,
+Full Self-Driving (Beta) Terms,1,Self Driving,
+Gear Chimes,2,Minor Effects to Safety,
+Get to Know Your Tesla,2,User Information,
+Glovebox PIN,1,Comfort,
+GPS,1,Minor Effects to Safety,Feature Interaction
+Green Traffic Light Chime,2,Minor Effects to Safety,
+Handwriting Keyboard,1,Language Support,
+Happy Mahjong,1,Entertainment,
+Heat Pump & Low Voltage Battery,1,Fuel and Battery,
+Heating,1,Comfort,
+Hebrew Language Added,1,Language Support,
+Hebrew Voice Navigation,1,Language Support,
+Hide Map Details,1,Map Software,
+High Speed Performance,1,Major Effects to Safety,
+Highlights of 2022.44.25.1/2,1,Unknown,
+Highlights of 2023.02,1,Unknown,
+HomeLink,1,Non-Driving Feature,
+HW4 Fixes,1,Minor Fix,
+Icons in Status Bar,1,Minor Effects to Safety,
+Immersive Sound,1,Entertainment,
+Improved Charging Efficiency,1,Fuel and Battery,
+In App Mail,1,Entertainment,
+In App Release notes,1,User Information,
+Increased Regenerative Braking in Cold Weather,1,Minor Effects to Safety,
+Introducing new Navigation (Beta),1,Map Software,
+Joe Mode,1,Minor Effects to Safety,
+Keep Climate On,1,Comfort,
+Key Fob Security,1,Non-Driving Feature,Security
+Keyboard,1,Language Support,
+Keys,1,Non-Driving Feature,
+Lane Departure Avoidance,2,Safety Feature,
+Language,3,Language Support,
+Language Support,19,Language Support,
+Launch Mode,1,Major Effects to Safety,
+License Plate Routing,1,Map Software,
+Light Show,2,Entertainment,
+Linking a Key to a Driver Profile,1,Comfort,
+Live Camera Access,1,Non-Driving Feature,
+Location Sharing,1,Minor Effects to Safety,
+Lock Confirmation Sound,2,,
+Ludicrous Mode Acceleration,1,Major Effects to Safety,
+Mahjong,2,Entertainment,
+Manage Dashcam Clips,1,Minor Effects to Safety,
+Mango TV,2,Entertainment,
+Maps,3,Map Software,
+Media,1,Entertainment,
+Media Controls,1,Entertainment,
+Media Controls (and information cards),1,Entertainment,
+Media Search,1,Entertainment,
+Media Sources,1,Entertainment,
+Media Volume,1,Entertainment,
+Minor Fixes,31,Minor Fix,
+Minor Updates,1,Minor Fix,
+Mirror Auto Dim,1,Minor Effects to Safety,
+Mobile Access,1,Non-Driving Feature,Security
+Mobile App,5,Comfort,
+Mobile App - Vent Windows,1,Non-Driving Feature,
+More Cameras in Live Camera View,1,Non-Driving Feature,
+More Efficient Charging,1,Fuel and Battery,
+Multiplayer Vampire Survivors,1,Entertainment,
+Music Time Remaining over Bluetooth,1,Entertainment,
+myQ Connected Garage,1,Non-Driving Feature,
+Navigate on Autopilot (Beta),7,Safety Feature,
+Navigate On Autopilot Fork Initiation,1,Self Driving,
+Navigation,6,Map Software,
+Navigation Energy Prediction,1,Map Software,
+Navigation Guidance View,1,Map Software,
+Navigation Lane Guidance,1,Map Software,
+Navigation Route,1,Map Software,
+Navigation Routes,1,Map Software,
+Navigation Voice Guidance,3,Map Software,
+Nearby Charging Sites,1,Fuel and Battery,
+Nearby Superchargers,1,Map Software,
+NetEase Cloud Music,1,Entertainment,
+New Acceleration Mode,1,Major Effects to Safety,
+New Language Support,2,Language Support,
+New Legal Notice,1,User Information,
+New Release,2,Unknown,
+New V11 UI,1,Comfort,
+Notifications History,1,Comfort,
+On-Route Battery Warmup,2,Minor Effects to Safety,
+Other Updates,2,Comfort,
+Out of Order Supercharger Stalls,1,Fuel and Battery,
+Over-the-Air (OTA) Recall,2,Recall – Safety,
+Over-the-Air (OTA) recall,2,Recall – Safety,
+Over-the-Air Recall: Telltale Text Size,1,Recall – Safety,
+Owner's Manual,2,User Information,
+Park Assist,5,Self Driving,
+Park Assist Issues,2,Self Driving,
+Park Assist Upgrade,1,Self Driving,
+Passenger Face Vent,1,Minor Fix,
+Passenger Seat Controls,2,Comfort,
+Pay Per Use Supercharging,1,Fuel and Battery,
+Peak Power Increase,1,Minor Fix,
+Pedestrian Warning,1,Safety Feature,
+Performance and Launch Mode,1,Major Effects to Safety,
+Phone,1,Entertainment,
+Phone Call Controls,2,Comfort,
+PIN to Drive,1,Non-Driving Feature,Security
+Play Games on Rear Screen,1,Entertainment,
+Points of Interest,2,Map Software,
+Pole Position,1,Entertainment,
+Power Increase,1,Minor Fix,
+Predictive Charger Availability,1,Fuel and Battery,
+Priority Bluetooth Device,1,Comfort,
+QQ Lyrics,1,Entertainment,
+QQ Music,2,Entertainment,
+QR Code for Tesla Service,1,User Information,
+Radio Station Logos,1,Entertainment,
+Range Display,5,Fuel and Battery,
+Range Display Calibration,1,Minor Fix,
+Rear Cabin Climate,1,Comfort,
+Rear Display,2,Comfort,
+Rear Passenger Headphones,2,Entertainment,
+Rear Screen Control,1,Comfort,
+Rear Seatbelt Reminder,1,Safety Alerts,
+Redesigned Controls Panel,1,Comfort,
+Refresh Your Data Sharing Settings,1,Comfort,Security
+Refreshed QQ,1,Entertainment,
+Regenerative Braking,4,Minor Effects to Safety,
+Regenerative Braking in Autopilot,1,Minor Effects to Safety,
+Regenerative Braking on Autopilot,1,Minor Effects to Safety,
+Release,2,Unknown Safety,
+Release Notes,1,User Information,
+Remain Connected to Wi-Fi in Drive,1,Comfort,
+Reminder to Plug In at Home,1,Fuel and Battery,
+Remote Drivers Door Unlock,1,Non-Driving Feature,
+Request Full Self-Driving Beta,1,Self Driving,
+Romance Mode,1,Comfort,
+Route Guidance,1,Map Software,
+Routing and Maps,1,Map Software,
+Save Dashcam Clips,2,Minor Effects to Safety,
+Scheduled Departure,2,Comfort,
+Scheduled Light Show,1,Comfort,
+Scroll Wheel Customization,2,Comfort,
+Seat and Steering Column Calibration,1,Minor Fix,
+Seat Belt Enhancement,1,Major Effects to Safety,
+Seat Belt System Enhancement,1,Major Effects to Safety,
+Security Improvements,1,Minor Fix,
+Sentry Mode,7,Non-Driving Feature,
+Sentry Mode and Dog Mode,1,Non-Driving Feature,
+Sentry Mode Lighting,1,Non-Driving Feature,
+Sentry Mode Live Camera Access,4,Non-Driving Feature,
+Service Mode,1,Non-Driving Feature,
+Shengji,1,Entertainment,
+Side Repeater Cameras,1,Minor Effects to Safety,
+Simplified Controls,1,Minor Effects to Safety,
+Single Pull to Start Autopilot,3,Major Effects to Safety,
+Sirius XM,3,Entertainment,
+Sketchpad,1,Entertainment,
+Sky Force Reloaded,1,Entertainment,
+Smart Summon,2,Self Driving,
+Smart Summon (Beta),2,Self Driving,
+Software,1,Minor Effects to Safety,OTA Updates
+Software  Preference,2,Minor Effects to Safety,OTA Updates
+Solitaire,1,Entertainment,
+Sonic,1,Entertainment,
+Sonic the Hedgehog,2,Entertainment,
+Speed Assist,7,Major Effects to Safety,
+Speed Assist #2,1,Major Effects to Safety,
+Speed Bump Visualization,1,Minor Effects to Safety,
+Speed Cameras on Your Route,1,Other,
+Speed Limit Mode,1,Major Effects to Safety,
+Spotify,2,Entertainment,
+Spotify Refresh,2,Entertainment,
+Stardew Valley,1,Entertainment,
+Status Bar,3,Entertainment,
+Steam (Beta),2,Entertainment,
+Steering Improvements,1,Major Effects to Safety,
+Steering Wheel Heat,1,Comfort,
+Steering Yoke Heat,1,Comfort,
+Stopping Mode,1,Minor Effects to Safety,
+Subwoofer,1,Comfort,
+Sudoku,1,Entertainment,
+Summon,4,Self Driving,
+Summon with Key Fob,3,Self Driving,
+Supercharger Additional Details,2,Fuel and Battery,
+Supercharging,6,Fuel and Battery,
+Supercharging Display,1,Fuel and Battery,
+Superchargings List,1,Map Software,
+Suspension,2,Major Effects to Safety,
+Suspension Instrument Panel Display,1,Minor Effects to Safety,
+Tesla Adaptive Suspension,1,Major Effects to Safety,
+Tesla App,1,Non-Driving Feature,
+Tesla Arcade,1,Entertainment,
+Tesla Arcade Updates,1,Entertainment,
+Tesla Powerwall Coordination,2,Entertainment,
+Tesla Profiles,1,Comfort,
+Tesla Theater,4,Entertainment,
+Tesla Toybox,2,Entertainment,
+Tesla Tutorials,1,User Information,
+Tesla Vision Update,3,Self Driving,
+TeslaMic,2,Entertainment,
+TeslAtari ,1,Entertainment,
+TeslAtari Game Controller Support,1,Entertainment,
+Text Messaging,1,Entertainment,
+Text Size,3,Minor Fix,
+Thai Voice Navigation,1,Language Support,
+The Battle of Polytopia,1,Entertainment,
+Theater Mode,2,Entertainment,
+Third-Party Charging Stations,2,Map Data,
+TIDAL,1,Entertainment,
+TikTok,1,Entertainment,
+Tire Configuration,2,Diagnostics,
+Tire Pressure API,1,Diagnostics,
+Tire Pressure Monitoring System (TPMS),1,Diagnostics,
+Tire Service,2,Diagnostics,
+Tire Service Mileage,2,Diagnostics,
+Top Speed Performance,1,Minor Fix,
+Track Mode,5,Major Effects to Safety,
+Traffic Along Route,2,Map Software,
+Traffic Aware Cruise Control Chime,1,Minor Effects to Safety,
+Traffic Light and Stop Sign Control (Beta),6,Major Effects to Safety,
+Traffic View,1,Map Software,
+TRAX,1,Entertainment,
+TRAX v0.1,1,Entertainment,
+TRAX v0.2,1,Entertainment,
+Trip Planner,1,Map Software,
+Trip Planner (Beta),1,Map Software,
+Trip Planner on Mobile App,1,Map Software,
+TuneIn,1,Entertainment,
+Unlatching Charge Cable,1,Fuel and Battery,
+Use Comfort Damping Suspension in Autopilot,1,Self Driving,
+Use HOV Lanes,1,Self Driving,
+User guides,6,User Information,
+Vampire Survivors Game,3,Entertainment,
+Vehicle Information,2,User Information,
+Vehicle Preconditioning,1,Non-Driving Feature,
+Vehicle Sync (Beta),1,Comfort,Effects Security
+Version 9.0,3,Minor Effects to Safety,
+Version Improvements,7,Minor Fix,
+Video Highlights,1,Unknown,
+Viewing Applications with Media Player Open,1,Entertainment,
+Visualizations,2,Minor Effects to Safety,
+Voice Command,1,Language Support,
+Voice Command Language,1,Entertainment,
+Voice Commands,1,Language Support,
+Voice Keyboard,1,Language Support,
+Voice Recognition,1,Language Support,
+Voice Recognition Language,3,Language Support,
+Walk-Away Door Lock,1,Non-Driving Feature,
+Warmer Display Colors,2,Comfort,
+Web Browser,3,Entertainment,
+WeChat Mini Programs,1,Entertainment,
+Wheel Configuration,1,Minor Effects to Safety,Adaptive
+Windows During an Update,1,Non-Driving Feature,
+Windshield Wiper Defrost,1,Minor Effects to Safety,Adaptive
+Wiper,1,Minor Effects to Safety,Adaptive
+Ximalaya,1,Entertainment,
+Xref Release numbering,1,Unknown,
+Yoke Behavior Changes,1,Major Effects to Safety,
+Zoom Meetings,3,Entertainment,
+Zoom Video Meetings,1,Entertainment,
