@@ -10,7 +10,7 @@ Release Notes,1,User Information,
 Tesla Tutorials,1,User Information,
 User guides,6,User Information,
 Vehicle Information,2,User Information,
-Release,2,Unknown Safety,
+Release,2,Major Effects to Safety,Unknown
 China specific release,1,Unknown,
 Detected.....,1,Unknown,
 Highlights of 2022.44.25.1/2,1,Unknown,
@@ -117,40 +117,40 @@ Faster Hazard Lights After a Crash,1,Safety Feature,
 Lane Departure Avoidance,2,Safety Feature,
 Navigate on Autopilot (Beta),7,Safety Feature,
 Pedestrian Warning,1,Safety Feature,
-Rear Seatbelt Reminder,1,Safety Alerts,
-Adjacent Lane Speeds,1,Safety ,
-Over-the-Air (OTA) Recall,2,Recall – Safety,
-Over-the-Air (OTA) recall,2,Recall – Safety,
-Over-the-Air Recall: Telltale Text Size,1,Recall – Safety,
-Speed Cameras on Your Route,1,Other,
-Additional Mobile App Controls,1,Non-Driving Feature,
-Camera View on Tesla App,2,Non-Driving Feature,
-Camera-Based Detection,1,Non-Driving Feature,
-Camp Mode,1,Non-Driving Feature,
-Car Left Open Notifications,2,Non-Driving Feature,
-Car Wash Mode,2,Non-Driving Feature,
-Disable Sentry Sounds,1,Non-Driving Feature,
-Dog Mode,5,Non-Driving Feature,
-Exclude Automatic Door Opening at Home,1,Non-Driving Feature,
-HomeLink,1,Non-Driving Feature,
-Key Fob Security,1,Non-Driving Feature,Security
-Keys,1,Non-Driving Feature,
-Live Camera Access,1,Non-Driving Feature,
-Mobile Access,1,Non-Driving Feature,Security
-Mobile App - Vent Windows,1,Non-Driving Feature,
-More Cameras in Live Camera View,1,Non-Driving Feature,
-myQ Connected Garage,1,Non-Driving Feature,
-PIN to Drive,1,Non-Driving Feature,Security
-Remote Drivers Door Unlock,1,Non-Driving Feature,
-Sentry Mode,7,Non-Driving Feature,
-Sentry Mode and Dog Mode,1,Non-Driving Feature,
-Sentry Mode Lighting,1,Non-Driving Feature,
-Sentry Mode Live Camera Access,4,Non-Driving Feature,
-Service Mode,1,Non-Driving Feature,
-Tesla App,1,Non-Driving Feature,
-Vehicle Preconditioning,1,Non-Driving Feature,
-Walk-Away Door Lock,1,Non-Driving Feature,
-Windows During an Update,1,Non-Driving Feature,
+Rear Seatbelt Reminder,1,Major Effects to Safety,Alerts
+Adjacent Lane Speeds,1,Safety Feature,
+Over-the-Air (OTA) Recall,2,Major Effects to Safety,Recall
+Over-the-Air (OTA) recall,2,Major Effects to Safety,Recall
+Over-the-Air Recall: Telltale Text Size,1,Major Effects to Safety,Recall
+Speed Cameras on Your Route,1,Major Effects to Safety,
+Additional Mobile App Controls,1,Not Affecting Safety,Non-Driving Feature
+Camera View on Tesla App,2,Not Affecting Safety,Non-Driving Feature
+Camera-Based Detection,1,Not Affecting Safety,Non-Driving Feature
+Camp Mode,1,Not Affecting Safety,Non-Driving Feature
+Car Left Open Notifications,2,Not Affecting Safety,Non-Driving Feature
+Car Wash Mode,2,Not Affecting Safety,Non-Driving Feature
+Disable Sentry Sounds,1,Not Affecting Safety,Non-Driving Feature
+Dog Mode,5,Not Affecting Safety,Non-Driving Feature
+Exclude Automatic Door Opening at Home,1,Not Affecting Safety,Non-Driving Feature
+HomeLink,1,Not Affecting Safety,Non-Driving Feature
+Key Fob Security,1,Not Affecting Safety,Non-Driving Feature Security
+Keys,1,Not Affecting Safety,Non-Driving Feature
+Live Camera Access,1,Not Affecting Safety,Non-Driving Feature
+Mobile Access,1,Not Affecting Safety,Non-Driving Feature Security
+Mobile App - Vent Windows,1,Not Affecting Safety,Non-Driving Feature
+More Cameras in Live Camera View,1,Not Affecting Safety,Non-Driving Feature
+myQ Connected Garage,1,Not Affecting Safety,Non-Driving Feature
+PIN to Drive,1,Not Affecting Safety,Non-Driving Feature Security
+Remote Drivers Door Unlock,1,Not Affecting Safety,Non-Driving Feature
+Sentry Mode,7,Not Affecting Safety,Non-Driving Feature
+Sentry Mode and Dog Mode,1,Not Affecting Safety,Non-Driving Feature
+Sentry Mode Lighting,1,Not Affecting Safety,Non-Driving Feature
+Sentry Mode Live Camera Access,4,Not Affecting Safety,Non-Driving Feature
+Service Mode,1,Not Affecting Safety,Non-Driving Feature
+Tesla App,1,Not Affecting Safety,Non-Driving Feature
+Vehicle Preconditioning,1,Not Affecting Safety,Non-Driving Feature
+Walk-Away Door Lock,1,Not Affecting Safety,Non-Driving Feature
+Windows During an Update,1,Not Affecting Safety,Non-Driving Feature
 Bug Fix,1,Minor Fix,
 Bugfix,11,Minor Fix,
 Bugfix (2022.44.30.1),1,Minor Fix,
@@ -275,20 +275,20 @@ Tesla Adaptive Suspension,1,Major Effects to Safety,
 Track Mode,5,Major Effects to Safety,
 Traffic Light and Stop Sign Control (Beta),6,Major Effects to Safety,
 Yoke Behavior Changes,1,Major Effects to Safety,
-Bopomofo Keyboard,1,Language Support,
-Handwriting Keyboard,1,Language Support,
-Hebrew Language Added,1,Language Support,
-Hebrew Voice Navigation,1,Language Support,
-Keyboard,1,Language Support,
-Language,3,Language Support,
-Language Support,19,Language Support,
-New Language Support,2,Language Support,
-Thai Voice Navigation,1,Language Support,
-Voice Command,1,Language Support,
-Voice Commands,1,Language Support,
-Voice Keyboard,1,Language Support,
-Voice Recognition,1,Language Support,
-Voice Recognition Language,3,Language Support,
+Bopomofo Keyboard,1,Not Affecting Safety,Language Support
+Handwriting Keyboard,1,Not Affecting Safety,Language Support
+Hebrew Language Added,1,Not Affecting Safety,Language Support
+Hebrew Voice Navigation,1,Not Affecting Safety,Language Support
+Keyboard,1,Not Affecting Safety,Language Support
+Language,3,Not Affecting Safety,Language Support
+Language Support,19,Not Affecting Safety,Language Support
+New Language Support,2,Not Affecting Safety,Language Support
+Thai Voice Navigation,1,Not Affecting Safety,Language Support
+Voice Command,1,Not Affecting Safety,Language Support
+Voice Commands,1,Not Affecting Safety,Language Support
+Voice Keyboard,1,Not Affecting Safety,Language Support
+Voice Recognition,1,Not Affecting Safety,Language Support
+Voice Recognition Language,3,Not Affecting Safety,Language Support
 Additional Features in App,1,Fuel and Battery,
 Battery Health,1,Fuel and Battery,
 Battery Heating Performance,1,Fuel and Battery,
@@ -318,146 +318,146 @@ Supercharger Additional Details,2,Fuel and Battery,
 Supercharging,6,Fuel and Battery,
 Supercharging Display,1,Fuel and Battery,
 Unlatching Charge Cable,1,Fuel and Battery,
-Apple Music,4,Entertainment,
-Apple Podcasts,1,Entertainment,
-Application Launcher,3,Entertainment,
-Audio Sources,1,Entertainment,
-Backgammon,2,Entertainment,
-Beach Buggy Racing 2,1,Entertainment,
-Bilibili,1,Entertainment,
-Bluetooth,2,Entertainment,
-Bluetooth Audio Progress Bar,1,Entertainment,
-Bluetooth Game Controllers,2,Entertainment,
-Bluetooth Games Controllers,1,Entertainment,
-Bluetooth Gaming Controllers,1,Entertainment,
-Boombox,3,Entertainment,
-Browser and Streaming Media,1,Entertainment,
-Calendar,1,Entertainment,
-Caraoke,2,Entertainment,
-Castle Doombad Game,1,Entertainment,
-Cat Quest,2,Entertainment,
-Chess,1,Entertainment,
-Cuphead,1,Entertainment,
-Cuphead - Tesla Edition,1,Entertainment,
-Customizable App Launcher,1,Entertainment,
-Disney+,2,Entertainment,
-Dou DiZhu,1,Entertainment,
-Fallout Shelter,1,Entertainment,
-Happy Mahjong,1,Entertainment,
-Immersive Sound,1,Entertainment,
-In App Mail,1,Entertainment,
-Light Show,2,Entertainment,
-Mahjong,2,Entertainment,
-Mango TV,2,Entertainment,
-Media,1,Entertainment,
-Media Controls,1,Entertainment,
-Media Controls (and information cards),1,Entertainment,
-Media Search,1,Entertainment,
-Media Sources,1,Entertainment,
-Media Volume,1,Entertainment,
-Multiplayer Vampire Survivors,1,Entertainment,
-Music Time Remaining over Bluetooth,1,Entertainment,
-NetEase Cloud Music,1,Entertainment,
-Phone,1,Entertainment,
-Play Games on Rear Screen,1,Entertainment,
-Pole Position,1,Entertainment,
-QQ Lyrics,1,Entertainment,
-QQ Music,2,Entertainment,
-Radio Station Logos,1,Entertainment,
-Rear Passenger Headphones,2,Entertainment,
-Refreshed QQ,1,Entertainment,
-Shengji,1,Entertainment,
-Sirius XM,3,Entertainment,
-Sketchpad,1,Entertainment,
-Sky Force Reloaded,1,Entertainment,
-Solitaire,1,Entertainment,
-Sonic,1,Entertainment,
-Sonic the Hedgehog,2,Entertainment,
-Spotify,2,Entertainment,
-Spotify Refresh,2,Entertainment,
-Stardew Valley,1,Entertainment,
-Status Bar,3,Entertainment,
-Steam (Beta),2,Entertainment,
-Sudoku,1,Entertainment,
-Tesla Arcade,1,Entertainment,
-Tesla Arcade Updates,1,Entertainment,
-Tesla Powerwall Coordination,2,Entertainment,
-Tesla Theater,4,Entertainment,
-Tesla Toybox,2,Entertainment,
-TeslaMic,2,Entertainment,
-TeslAtari ,1,Entertainment,
-TeslAtari Game Controller Support,1,Entertainment,
-Text Messaging,1,Entertainment,
-The Battle of Polytopia,1,Entertainment,
-Theater Mode,2,Entertainment,
-TIDAL,1,Entertainment,
-TikTok,1,Entertainment,
-TRAX,1,Entertainment,
-TRAX v0.1,1,Entertainment,
-TRAX v0.2,1,Entertainment,
-TuneIn,1,Entertainment,
-Vampire Survivors Game,3,Entertainment,
-Viewing Applications with Media Player Open,1,Entertainment,
-Voice Command Language,1,Entertainment,
-Web Browser,3,Entertainment,
-WeChat Mini Programs,1,Entertainment,
-Ximalaya,1,Entertainment,
-Zoom Meetings,3,Entertainment,
-Zoom Video Meetings,1,Entertainment,
+Apple Music,4,Not Affecting Safety,Entertainment
+Apple Podcasts,1,Not Affecting Safety,Entertainment
+Application Launcher,3,Not Affecting Safety,Entertainment
+Audio Sources,1,Not Affecting Safety,Entertainment
+Backgammon,2,Not Affecting Safety,Entertainment
+Beach Buggy Racing 2,1,Not Affecting Safety,Entertainment
+Bilibili,1,Not Affecting Safety,Entertainment
+Bluetooth,2,Not Affecting Safety,Entertainment
+Bluetooth Audio Progress Bar,1,Not Affecting Safety,Entertainment
+Bluetooth Game Controllers,2,Not Affecting Safety,Entertainment
+Bluetooth Games Controllers,1,Not Affecting Safety,Entertainment
+Bluetooth Gaming Controllers,1,Not Affecting Safety,Entertainment
+Boombox,3,Not Affecting Safety,Entertainment
+Browser and Streaming Media,1,Not Affecting Safety,Entertainment
+Calendar,1,Not Affecting Safety,Entertainment
+Caraoke,2,Not Affecting Safety,Entertainment
+Castle Doombad Game,1,Not Affecting Safety,Entertainment
+Cat Quest,2,Not Affecting Safety,Entertainment
+Chess,1,Not Affecting Safety,Entertainment
+Cuphead,1,Not Affecting Safety,Entertainment
+Cuphead - Tesla Edition,1,Not Affecting Safety,Entertainment
+Customizable App Launcher,1,Not Affecting Safety,Entertainment
+Disney+,2,Not Affecting Safety,Entertainment
+Dou DiZhu,1,Not Affecting Safety,Entertainment
+Fallout Shelter,1,Not Affecting Safety,Entertainment
+Happy Mahjong,1,Not Affecting Safety,Entertainment
+Immersive Sound,1,Not Affecting Safety,Entertainment
+In App Mail,1,Not Affecting Safety,Entertainment
+Light Show,2,Not Affecting Safety,Entertainment
+Mahjong,2,Not Affecting Safety,Entertainment
+Mango TV,2,Not Affecting Safety,Entertainment
+Media,1,Not Affecting Safety,Entertainment
+Media Controls,1,Not Affecting Safety,Entertainment
+Media Controls (and information cards),1,Not Affecting Safety,Entertainment
+Media Search,1,Not Affecting Safety,Entertainment
+Media Sources,1,Not Affecting Safety,Entertainment
+Media Volume,1,Not Affecting Safety,Entertainment
+Multiplayer Vampire Survivors,1,Not Affecting Safety,Entertainment
+Music Time Remaining over Bluetooth,1,Not Affecting Safety,Entertainment
+NetEase Cloud Music,1,Not Affecting Safety,Entertainment
+Phone,1,Not Affecting Safety,Entertainment
+Play Games on Rear Screen,1,Not Affecting Safety,Entertainment
+Pole Position,1,Not Affecting Safety,Entertainment
+QQ Lyrics,1,Not Affecting Safety,Entertainment
+QQ Music,2,Not Affecting Safety,Entertainment
+Radio Station Logos,1,Not Affecting Safety,Entertainment
+Rear Passenger Headphones,2,Not Affecting Safety,Entertainment
+Refreshed QQ,1,Not Affecting Safety,Entertainment
+Shengji,1,Not Affecting Safety,Entertainment
+Sirius XM,3,Not Affecting Safety,Entertainment
+Sketchpad,1,Not Affecting Safety,Entertainment
+Sky Force Reloaded,1,Not Affecting Safety,Entertainment
+Solitaire,1,Not Affecting Safety,Entertainment
+Sonic,1,Not Affecting Safety,Entertainment
+Sonic the Hedgehog,2,Not Affecting Safety,Entertainment
+Spotify,2,Not Affecting Safety,Entertainment
+Spotify Refresh,2,Not Affecting Safety,Entertainment
+Stardew Valley,1,Not Affecting Safety,Entertainment
+Status Bar,3,Not Affecting Safety,Entertainment
+Steam (Beta),2,Not Affecting Safety,Entertainment
+Sudoku,1,Not Affecting Safety,Entertainment
+Tesla Arcade,1,Not Affecting Safety,Entertainment
+Tesla Arcade Updates,1,Not Affecting Safety,Entertainment
+Tesla Powerwall Coordination,2,Not Affecting Safety,Entertainment
+Tesla Theater,4,Not Affecting Safety,Entertainment
+Tesla Toybox,2,Not Affecting Safety,Entertainment
+TeslaMic,2,Not Affecting Safety,Entertainment
+TeslAtari ,1,Not Affecting Safety,Entertainment
+TeslAtari Game Controller Support,1,Not Affecting Safety,Entertainment
+Text Messaging,1,Not Affecting Safety,Entertainment
+The Battle of Polytopia,1,Not Affecting Safety,Entertainment
+Theater Mode,2,Not Affecting Safety,Entertainment
+TIDAL,1,Not Affecting Safety,Entertainment
+TikTok,1,Not Affecting Safety,Entertainment
+TRAX,1,Not Affecting Safety,Entertainment
+TRAX v0.1,1,Not Affecting Safety,Entertainment
+TRAX v0.2,1,Not Affecting Safety,Entertainment
+TuneIn,1,Not Affecting Safety,Entertainment
+Vampire Survivors Game,3,Not Affecting Safety,Entertainment
+Viewing Applications with Media Player Open,1,Not Affecting Safety,Entertainment
+Voice Command Language,1,Not Affecting Safety,Entertainment
+Web Browser,3,Not Affecting Safety,Entertainment
+WeChat Mini Programs,1,Not Affecting Safety,Entertainment
+Ximalaya,1,Not Affecting Safety,Entertainment
+Zoom Meetings,3,Not Affecting Safety,Entertainment
+Zoom Video Meetings,1,Not Affecting Safety,Entertainment
 Tire Configuration,2,Diagnostics,
 Tire Pressure API,1,Diagnostics,
 Tire Pressure Monitoring System (TPMS),1,Diagnostics,
 Tire Service,2,Diagnostics,
 Tire Service Mileage,2,Diagnostics,
-Accessibility,1,Comfort,
-Active Phone Calls,1,Comfort,
-Additional Bottom Bar Customization,1,Comfort,
-Air Quality Index and Weather,1,Comfort,
-Auto Rear Climate Controls,1,Comfort,
-Auto Steering Wheel Heat,2,Comfort,
-Automated Seat Heaters,1,Comfort,
-Bioweapon Defense Mode,1,Comfort,
-Cabin Overheat Protection,2,Comfort,
-Car Colorizer,1,Comfort,
-Climate Control,4,Comfort,
-Climate Control Fan Speed,1,Comfort,
-Close Windows on Lock,1,Comfort,
-Cloud Profiles,1,Comfort,
-Cold Weather,9,Comfort,
-Confirm Phone Call Transfer,1,Comfort,
-Contact Lookup,1,Comfort,
-Contact Lookup/Search,1,Comfort,
-Controls Search,2,Comfort,
-Custom Lock Sounds,1,Comfort,
-Dark Mode,1,Comfort,
-Display Brightness,1,Comfort,
-Driver Door Unlock Mode,2,Comfort,
-Driver Profiles,5,Comfort,
-Glovebox PIN,1,Comfort,
-Heating,1,Comfort,
-Keep Climate On,1,Comfort,
-Linking a Key to a Driver Profile,1,Comfort,
-Mobile App,5,Comfort,
-New V11 UI,1,Comfort,
-Notifications History,1,Comfort,
-Other Updates,2,Comfort,
-Passenger Seat Controls,2,Comfort,
-Phone Call Controls,2,Comfort,
-Priority Bluetooth Device,1,Comfort,
-Rear Cabin Climate,1,Comfort,
-Rear Display,2,Comfort,
-Rear Screen Control,1,Comfort,
-Redesigned Controls Panel,1,Comfort,
-Refresh Your Data Sharing Settings,1,Comfort,Security
-Remain Connected to Wi-Fi in Drive,1,Comfort,
-Romance Mode,1,Comfort,
-Scheduled Departure,2,Comfort,
-Scheduled Light Show,1,Comfort,
-Scroll Wheel Customization,2,Comfort,
-Steering Wheel Heat,1,Comfort,
-Steering Yoke Heat,1,Comfort,
-Subwoofer,1,Comfort,
-Tesla Profiles,1,Comfort,
-Vehicle Sync (Beta),1,Comfort,Effects Security
-Warmer Display Colors,2,Comfort,
-Lock Confirmation Sound,2,Comfort,Security
+Accessibility,1,Not Affecting Safety,Comfort
+Active Phone Calls,1,Not Affecting Safety,Comfort
+Additional Bottom Bar Customization,1,Not Affecting Safety,Comfort
+Air Quality Index and Weather,1,Not Affecting Safety,Comfort
+Auto Rear Climate Controls,1,Not Affecting Safety,Comfort
+Auto Steering Wheel Heat,2,Not Affecting Safety,Comfort
+Automated Seat Heaters,1,Not Affecting Safety,Comfort
+Bioweapon Defense Mode,1,Not Affecting Safety,Comfort
+Cabin Overheat Protection,2,Not Affecting Safety,Comfort
+Car Colorizer,1,Not Affecting Safety,Comfort
+Climate Control,4,Not Affecting Safety,Comfort
+Climate Control Fan Speed,1,Not Affecting Safety,Comfort
+Close Windows on Lock,1,Not Affecting Safety,Comfort
+Cloud Profiles,1,Not Affecting Safety,Comfort
+Cold Weather,9,Not Affecting Safety,Comfort
+Confirm Phone Call Transfer,1,Not Affecting Safety,Comfort
+Contact Lookup,1,Not Affecting Safety,Comfort
+Contact Lookup/Search,1,Not Affecting Safety,Comfort
+Controls Search,2,Not Affecting Safety,Comfort
+Custom Lock Sounds,1,Not Affecting Safety,Comfort
+Dark Mode,1,Not Affecting Safety,Comfort
+Display Brightness,1,Not Affecting Safety,Comfort
+Driver Door Unlock Mode,2,Not Affecting Safety,Comfort
+Driver Profiles,5,Not Affecting Safety,Comfort
+Glovebox PIN,1,Not Affecting Safety,Comfort
+Heating,1,Not Affecting Safety,Comfort
+Keep Climate On,1,Not Affecting Safety,Comfort
+Linking a Key to a Driver Profile,1,Not Affecting Safety,Comfort
+Mobile App,5,Not Affecting Safety,Comfort
+New V11 UI,1,Not Affecting Safety,Comfort
+Notifications History,1,Not Affecting Safety,Comfort
+Other Updates,2,Not Affecting Safety,Comfort
+Passenger Seat Controls,2,Not Affecting Safety,Comfort
+Phone Call Controls,2,Not Affecting Safety,Comfort
+Priority Bluetooth Device,1,Not Affecting Safety,Comfort
+Rear Cabin Climate,1,Not Affecting Safety,Comfort
+Rear Display,2,Not Affecting Safety,Comfort
+Rear Screen Control,1,Not Affecting Safety,Comfort
+Redesigned Controls Panel,1,Not Affecting Safety,Comfort
+Refresh Your Data Sharing Settings,1,Not Affecting Safety,Comfort Security
+Remain Connected to Wi-Fi in Drive,1,Not Affecting Safety,Comfort
+Romance Mode,1,Not Affecting Safety,Comfort
+Scheduled Departure,2,Not Affecting Safety,Comfort
+Scheduled Light Show,1,Not Affecting Safety,Comfort
+Scroll Wheel Customization,2,Not Affecting Safety,Comfort
+Steering Wheel Heat,1,Not Affecting Safety,Comfort
+Steering Yoke Heat,1,Not Affecting Safety,Comfort
+Subwoofer,1,Not Affecting Safety,Comfort
+Tesla Profiles,1,Not Affecting Safety,Comfort
+Vehicle Sync (Beta),1,Not Affecting Safety,Comfort Security
+Warmer Display Colors,2,Not Affecting Safety,Comfort
+Lock Confirmation Sound,2,Not Affecting Safety,Comfort Security
